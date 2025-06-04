@@ -1,7 +1,7 @@
 # 🔧 Br3noAraujo
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=100&lines=Python+Lover;Engine+Enthusiast;TI+Technician" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=100&lines=Python+Lover;Motorcycle+Enthusiast;IT+Technician" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -11,14 +11,14 @@ class Br3noAraujo:
     def __init__(self):
         self.name = "Breno Araújo"
         self.role = "Open Source Enthusiast & Developer"
-        self.passion = ["Open Source", "Python", "Motors"]
+        self.passion = ["Open Source", "Python", "Motorcycles"]
         self.location = "Brazil"
         self.license = "MIT"
         
     def skills(self):
         return {
             "Development": ["Python", "Open Source", "Linux"],
-            "Motors": ["Engine Tuning", "Performance Analysis", "Automotive Security"],
+            "Motorcycles": ["Performance Tuning", "Maintenance", "Riding"],
             "Open Source": ["Contributor", "Maintainer", "Community Builder"]
         }
 ```
@@ -37,7 +37,7 @@ I believe in the power of open source software and its ability to transform the 
 ## 🔥 Featured Projects
 
 - [Thermite](https://github.com/Br3noAraujo/thermite) - Secure data destruction tool
-- [EngineTuner](https://github.com/Br3noAraujo/engine-tuner) - Engine analysis and optimization software
+- [MotoTuner](https://github.com/Br3noAraujo/moto-tuner) - Motorcycle performance analysis software
 - [CryptoGuard](https://github.com/Br3noAraujo/crypto-guard) - Cryptocurrency transaction security system
 
 All projects are proudly open source under the MIT License.
@@ -60,18 +60,25 @@ All projects are proudly open source under the MIT License.
 
 ## 🔒 Areas of Expertise
 
+- **IT Support & Infrastructure**
+  - Network Administration
+  - System Maintenance
+  - Hardware Troubleshooting
+  - User Support
+  - Security Implementation
+
 - **Open Source Development**
   - Python Development
   - Linux Systems
   - Community Building
   - Project Maintenance
 
-- **Motors & Performance**
-  - Engine Tuning
-  - Performance Analysis
-  - Automotive Security
-  - Electronic Diagnostics
-  
+- **Motorcycle & Performance**
+  - Performance Tuning
+  - Maintenance & Repair
+  - Riding Skills
+  - Motorcycle Security
+
 ## 🎯 Mission
 
 - 🌱 Evangelize the benefits of open source and digital freedom
