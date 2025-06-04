@@ -71,21 +71,7 @@ All projects are proudly open source under the MIT License.
   - Performance Analysis
   - Automotive Security
   - Electronic Diagnostics
-
-## 🌐 Connect
-
-<div align="center">
-  <a href="https://github.com/Br3noAraujo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/br3noaraujo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/br3noaraujo">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
-
+  
 ## 🎯 Mission
 
 - 🌱 Evangelize the benefits of open source and digital freedom
