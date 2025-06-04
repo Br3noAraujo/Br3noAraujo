@@ -1,7 +1,7 @@
 # 🔧 Br3noAraujo
 
 <div align="center">
-  <img src="https://i.imgur.com/nwsZv1C.png" alt="Thermite Banner" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=100&lines=Cybersecurity+Engineer;Engine+Enthusiast;Blockchain+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
