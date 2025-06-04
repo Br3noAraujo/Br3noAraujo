@@ -10,18 +10,29 @@
 class Br3noAraujo:
     def __init__(self):
         self.name = "Breno Araújo"
-        self.role = "Cybersecurity Engineer & Developer"
-        self.passion = ["Motors", "Cybersecurity", "Blockchain"]
+        self.role = "Open Source Enthusiast & Developer"
+        self.passion = ["Open Source", "Python", "Motors"]
         self.location = "Brazil"
+        self.license = "MIT"
         
     def skills(self):
         return {
-            "Security": ["Penetration Testing", "Malware Analysis", "Network Security"],
-            "Development": ["Python", "C++", "Rust"],
-            "Blockchain": ["Bitcoin", "Smart Contracts", "DeFi"],
-            "Motors": ["Engine Tuning", "Performance Analysis", "Automotive Security"]
+            "Development": ["Python", "Open Source", "Linux"],
+            "Motors": ["Engine Tuning", "Performance Analysis", "Automotive Security"],
+            "Open Source": ["Contributor", "Maintainer", "Community Builder"]
         }
 ```
+
+## 🌟 Open Source Philosophy
+
+> "Software is like sex: it's better when it's free." - Linus Torvalds
+
+I believe in the power of open source software and its ability to transform the world. All my projects are released under the MIT License, promoting:
+
+- 🆓 Freedom to use, modify, and distribute
+- 🤝 Community collaboration
+- 📚 Knowledge sharing
+- 🔄 Continuous improvement
 
 ## 🔥 Featured Projects
 
@@ -29,14 +40,15 @@ class Br3noAraujo:
 - [EngineTuner](https://github.com/Br3noAraujo/engine-tuner) - Engine analysis and optimization software
 - [CryptoGuard](https://github.com/Br3noAraujo/crypto-guard) - Cryptocurrency transaction security system
 
+All projects are proudly open source under the MIT License.
+
 ## 🛠️ Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </div>
 
 ## 📊 Statistics
@@ -48,23 +60,17 @@ class Br3noAraujo:
 
 ## 🔒 Areas of Expertise
 
-- **Cybersecurity**
-  - Malware Analysis
-  - Penetration Testing
-  - Network Security
-  - Digital Forensics
+- **Open Source Development**
+  - Python Development
+  - Linux Systems
+  - Community Building
+  - Project Maintenance
 
 - **Motors & Performance**
   - Engine Tuning
   - Performance Analysis
   - Automotive Security
   - Electronic Diagnostics
-
-- **Blockchain & Crypto**
-  - Bitcoin Development
-  - Smart Contracts
-  - DeFi
-  - Wallet Security
 
 ## 🌐 Connect
 
@@ -82,18 +88,18 @@ class Br3noAraujo:
 
 ## 💡 Favorite Quotes
 
-> "Security is not a product, it's a process." - Bruce Schneier
+> "The best way to predict the future is to implement it yourself." - David Heinemeier Hansson
 >
-> "Bitcoin is a technological invention that will change the world." - Satoshi Nakamoto
+> "Given enough eyeballs, all bugs are shallow." - Linus's Law
 >
 > "Speed is just a question of money. How fast do you want to go?" - Carroll Shelby
 
 ## 🎯 Goals
 
-- Develop innovative cybersecurity solutions
-- Contribute to the Bitcoin ecosystem
-- Create engine optimization tools
-- Promote security in the automotive world
+- Promote open source software and its benefits
+- Create and maintain high-quality open source projects
+- Build and grow open source communities
+- Share knowledge and help others learn
 
 ---
 
