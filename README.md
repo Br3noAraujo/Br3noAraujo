@@ -1,7 +1,7 @@
 # 🔧 Br3noAraujo
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Python+Lover;Motorcycle+Enthusiast;IT+Technician" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=8EC07C&center=true&vCenter=true&random=false&width=600&height=100&lines=Python+Lover;Motorcycle+Enthusiast;IT+Technician" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -45,17 +45,17 @@ All projects are proudly open source under the MIT License.
 ## 🛠️ Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitcoin-00BFFF?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-00CED1?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Open%20Source-4169E1?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-8EC07C?style=for-the-badge&logo=python&logoColor=282828"/>
+  <img src="https://img.shields.io/badge/Bitcoin-FABD2F?style=for-the-badge&logo=bitcoin&logoColor=282828"/>
+  <img src="https://img.shields.io/badge/Linux-83A598?style=for-the-badge&logo=linux&logoColor=282828"/>
+  <img src="https://img.shields.io/badge/Open%20Source-B8BB26?style=for-the-badge&logo=opensourceinitiative&logoColor=282828"/>
 </div>
 
 ## 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Br3noAraujo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Br3noAraujo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Br3noAraujo&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Br3noAraujo&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🔒 Areas of Expertise
@@ -90,5 +90,5 @@ All projects are proudly open source under the MIT License.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Br3noAraujo&color=4169E1" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Br3noAraujo&color=B8BB26" alt="Profile Views"/>
 </div> 
