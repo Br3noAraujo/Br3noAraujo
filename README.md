@@ -37,8 +37,8 @@ I believe in the power of open source software and its ability to transform the 
 ## 🔥 Featured Projects
 
 - [Thermite](https://github.com/Br3noAraujo/thermite) - Secure data destruction tool
-- [MotoTuner](https://github.com/Br3noAraujo/moto-tuner) - Motorcycle performance analysis software
-- [CryptoGuard](https://github.com/Br3noAraujo/crypto-guard) - Cryptocurrency transaction security system
+- [CutMyRoots](https://github.com/Br3noAraujo/cutmyroots) - Python dependencies manager
+- [WifiMage](https://github.com/Br3noAraujo/wifimage) - WiFi network analysis and security tool
 
 All projects are proudly open source under the MIT License.
 
