@@ -25,7 +25,7 @@ class Br3noAraujo:
 
 ## 🌟 Open Source Philosophy
 
-> "Software is like sex: it's better when it's free." - Linus Torvalds
+> "Falar é fácil, me mostre o código." - Linus Torvalds
 
 I believe in the power of open source software and its ability to transform the world. All my projects are released under the MIT License, promoting:
 
