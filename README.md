@@ -37,7 +37,7 @@ I believe in the power of open source software and its ability to transform the 
 ## 🔥 Featured Projects
 
 - [Thermite](https://github.com/Br3noAraujo/thermite) - Secure data destruction tool
-- [CutMyRoots](https://github.com/Br3noAraujo/cutmyroots) - Python dependencies manager
+- [CutMyRoots](https://github.com/Br3noAraujo/cutmyroots) - Tor proxy rotator
 - [WifiMage](https://github.com/Br3noAraujo/wifimage) - WiFi network analysis and security tool
 
 All projects are proudly open source under the MIT License.
