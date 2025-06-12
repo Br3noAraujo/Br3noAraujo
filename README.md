@@ -51,12 +51,16 @@ All projects are proudly open source under the MIT License.
   <img src="https://img.shields.io/badge/Open%20Source-B8BB26?style=for-the-badge&logo=opensourceinitiative&logoColor=282828"/>
 </div>
 
-## 📊 Statistics
+---
+
+## 📈 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Br3noAraujo&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Br3noAraujo&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Br3noAraujo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br3noAraujo&layout=compact&theme=radical&hide_border=true" />
 </div>
+
+---
 
 ## 🔒 Areas of Expertise
 
