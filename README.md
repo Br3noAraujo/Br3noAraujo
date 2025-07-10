@@ -56,7 +56,6 @@ All projects are proudly open source under the MIT License.
 ## 📈 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Br3noAraujo&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br3noAraujo&layout=compact&theme=gruvbox&hide_border=true" />
 </div>
 
